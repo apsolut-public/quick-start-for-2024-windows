@@ -7,12 +7,17 @@ Most of PowerShell scripts will create files/folders inside current directory wh
 
 #### Generate Working Folders for 2024
 Folder Names:
-- "Design", "Discovery", "Documents", "Resources", "Tasks"
+- Design
+- Discovery
+- Documents
+- Resources
+- Tasks
 
 
 #### Generate 2024 Weeks - Empty files with .docx extension
 File names: 
-- "001 Week 01 - 01.01.2024 - 07.01.2024" ... "052 Week 52 - 23.12.2024 - 29.12.2024"
+- "001 Week 01 - 01.01.2024 - 07.01.2024" 
+- "052 Week 52 - 23.12.2024 - 29.12.2024"
 
 
 
