@@ -16,8 +16,8 @@ Folder Names:
 
 #### Generate 2024 Weeks - Empty files with .docx extension
 File names: 
-- "001 Week 01 - 01.01.2024 - 07.01.2024" 
-- "052 Week 52 - 23.12.2024 - 29.12.2024"
+- 001 Week 01 - 01.01.2024 - 07.01.2024.docx
+- 052 Week 52 - 23.12.2024 - 29.12.2024.docx
 
 
 
