@@ -22,7 +22,9 @@ File names:
 
 
 
-
+#### Backup folder with 7zip 
+- input folder path "C:\Folder\Folder"
+- exclude node_modules
 
 
 
